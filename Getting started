@@ -1,0 +1,4 @@
+Turn on the mircopiHat by connecting it to a laptop through the USB port. Once turned on a white LED will turn on. The HAT will begin to sense the temperature.
+When the temperature is very low, no light will be emitted, however once thetemperature reaches 15 degrees, the red light will be emitted from the red LED 
+This red light will indicate a low temperature which will be between 15-20 degrees. The normal operating temperature is between 21-59 degrees,and a green light will be emitted from the green LED, 
+once the maximum temperature of 60°C is reached,a blue light will be emitted from the Blue LED 
