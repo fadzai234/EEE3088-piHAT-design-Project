@@ -2,3 +2,4 @@
 2. The PCB material should be water resistant
 3. The PCB material should be light enough not to exceed 500grams
 3. The PCB material should be durable. It should be able to last at least 18 months working.
+
