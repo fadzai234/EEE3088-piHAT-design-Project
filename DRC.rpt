@@ -1,0 +1,104 @@
+** Drc report for C:\Users\Fadzai\Desktop\Copy of 3088 for tests\3088.kicad_pcb **
+** Created on  **
+
+** Found 32 DRC errors **
+ErrType(19): Pad too close to pad
+    @(120,624 mm, 109,808 mm): Pad 1 of R4 on F.Cu and others
+    @(121,439 mm, 109,808 mm): Pad 2 of R4 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(125,704 mm, 105,998 mm): Pad 1 of R3 on F.Cu and others
+    @(126,519 mm, 105,998 mm): Pad 2 of R3 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(125,704 mm, 118,698 mm): Pad 1 of R8 on F.Cu and others
+    @(126,519 mm, 118,698 mm): Pad 2 of R8 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(126,112 mm, 112,348 mm): Pad 1 of R6 on F.Cu and others
+    @(126,927 mm, 112,348 mm): Pad 2 of R6 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(126,975 mm, 116,158 mm): Pad 1 of R7 on F.Cu and others
+    @(127,790 mm, 116,158 mm): Pad 2 of R7 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(139,674 mm, 100,918 mm): Pad 2 of R1 on F.Cu and others
+    @(140,489 mm, 100,918 mm): Pad 1 of R1 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(146,702 mm, 110,128 mm): Pad 5 of IC1 on F.Cu and others
+    @(147,702 mm, 111,078 mm): Pad 11 of IC1 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(146,702 mm, 112,028 mm): Pad 6 of IC1 on F.Cu and others
+    @(147,702 mm, 111,078 mm): Pad 11 of IC1 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(146,887 mm, 102,188 mm): Pad 1 of R5 on F.Cu and others
+    @(147,702 mm, 102,188 mm): Pad 2 of R5 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(147,202 mm, 110,128 mm): Pad 4 of IC1 on F.Cu and others
+    @(147,702 mm, 111,078 mm): Pad 11 of IC1 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(147,202 mm, 112,028 mm): Pad 7 of IC1 on F.Cu and others
+    @(147,702 mm, 111,078 mm): Pad 11 of IC1 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(147,702 mm, 110,128 mm): Pad 3 of IC1 on F.Cu and others
+    @(147,702 mm, 111,078 mm): Pad 11 of IC1 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(147,702 mm, 111,078 mm): Pad 11 of IC1 on F.Cu and others
+    @(147,702 mm, 112,028 mm): Pad 8 of IC1 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(148,565 mm, 99,648 mm): Pad 2 of R2 on F.Cu and others
+    @(149,380 mm, 99,648 mm): Pad 1 of R2 on F.Cu and others
+ErrType(19): Pad too close to pad
+    @(160,857 mm, 117,428 mm): Pad 1 of R9 on F.Cu and others
+    @(161,672 mm, 117,428 mm): Pad 2 of R9 on F.Cu and others
+ErrType(4): Track too close to pad
+    @(133,732 mm, 118,813 mm): Track 0,250 mm [<no net>] on F.Cu, length: 0,255 mm
+    @(133,732 mm, 118,558 mm): Pad 5 of D1 on F.Cu and others
+ErrType(4): Track too close to pad
+    @(132,762 mm, 119,783 mm): Track 0,250 mm [<no net>] on F.Cu, length: 1,372 mm
+    @(133,732 mm, 118,558 mm): Pad 5 of D1 on F.Cu and others
+ErrType(4): Track too close to pad
+    @(123,247 mm, 119,783 mm): Track 0,250 mm [<no net>] on F.Cu, length: 9,515 mm
+    @(132,032 mm, 118,558 mm): Pad 4 of D1 on F.Cu and others
+ErrType(4): Track too close to pad
+    @(121,032 mm, 117,568 mm): Track 0,250 mm [<no net>] on F.Cu, length: 3,132 mm
+    @(121,032 mm, 117,568 mm): Pad of H4 on All copper layers
+ErrType(4): Track too close to pad
+    @(121,032 mm, 117,568 mm): Track 0,250 mm [<no net>] on F.Cu, length: 2,199 mm
+    @(121,032 mm, 117,568 mm): Pad of H4 on All copper layers
+ErrType(4): Track too close to pad
+    @(173,182 mm, 104,728 mm): Track 0,250 mm [<no net>] on F.Cu, length: 1,190 mm
+    @(173,182 mm, 104,728 mm): Pad 2 of J2 on All copper layers
+ErrType(4): Track too close to pad
+    @(167,272 mm, 115,638 mm): Track 0,250 mm [<no net>] on F.Cu, length: 1,790 mm
+    @(165,482 mm, 115,638 mm): Pad 3 of D2 on F.Cu and others
+ErrType(4): Track too close to pad
+    @(173,182 mm, 104,728 mm): Track 0,250 mm [<no net>] on F.Cu, length: 0,080 mm
+    @(173,182 mm, 104,728 mm): Pad 2 of J2 on All copper layers
+ErrType(4): Track too close to pad
+    @(173,102 mm, 104,728 mm): Track 0,250 mm [<no net>] on F.Cu, length: 5,388 mm
+    @(173,182 mm, 104,728 mm): Pad 2 of J2 on All copper layers
+ErrType(4): Track too close to pad
+    @(123,477 mm, 92,123 mm): Track 0,250 mm [<no net>] on F.Cu, length: 3,458 mm
+    @(121,032 mm, 94,568 mm): Pad of H1 on All copper layers
+ErrType(4): Track too close to pad
+    @(132,462 mm, 100,918 mm): Track 0,250 mm [<no net>] on F.Cu, length: 5,549 mm
+    @(132,462 mm, 100,918 mm): Pad 9 of U2 on F.Cu and others
+ErrType(4): Track too close to pad
+    @(146,832 mm, 101,174 mm): Track 0,300 mm [Vreg_RT] on F.Cu, length: 3,911 mm
+    @(145,692 mm, 104,728 mm): Pad 1 of C1 on F.Cu and others
+ErrType(4): Track too close to pad
+    @(144,067 mm, 103,940 mm): Track 0,300 mm [Vreg_RT] on F.Cu, length: 4,246 mm
+    @(145,692 mm, 104,728 mm): Pad 1 of C1 on F.Cu and others
+ErrType(4): Track too close to pad
+    @(126,167 mm, 118,273 mm): Track 0,250 mm [VopAmpOut] on F.Cu, length: 2,060 mm
+    @(126,519 mm, 118,698 mm): Pad 2 of R8 on F.Cu and others
+ErrType(4): Track too close to pad
+    @(126,162 mm, 118,278 mm): Track 0,250 mm [VopAmpOut] on F.Cu, length: 0,008 mm
+    @(126,519 mm, 118,698 mm): Pad 2 of R8 on F.Cu and others
+ErrType(4): Track too close to pad
+    @(126,162 mm, 116,158 mm): Track 0,250 mm [VopAmpOut] on F.Cu, length: 2,120 mm
+    @(126,519 mm, 118,698 mm): Pad 2 of R8 on F.Cu and others
+ErrType(4): Track too close to pad
+    @(123,202 mm, 112,348 mm): Track 0,250 mm [VopAmpOut] on F.Cu, length: 3,592 mm
+    @(121,439 mm, 109,808 mm): Pad 2 of R4 on F.Cu and others
+
+** Found 0 unconnected pads **
+
+** End of Report **
